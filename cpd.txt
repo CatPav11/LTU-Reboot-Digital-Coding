@@ -10,13 +10,13 @@ Introduction to Web Development
 
 What have I learnt? 
 
-I have learnt about different position in Web development 
-
-
+I have learnt about the  different positions in Web development such as Front end, back end and Full Stack. 
+I have also learned about diffwrent programmes used by developers like Visula Studio Code and Github. 
+I learned about different resources that i can use to support my learning such as Freecode camp and Codecademy
+I also learned about different web concepts. For example the difference between the web and the internet, and the relationship between server and the client.
 
 How did I use this in practice?
-
-
-
+I have downloaded Visual Studio Code and created a github account. And also started to used them
+I have also explored Codecademy and Freecode camp.
 
 What did I find hard?
