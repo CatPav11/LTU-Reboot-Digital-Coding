@@ -1,0 +1,6 @@
+alink {color: teal;}
+a:visited {color: purple;}
+a:hover {color: red;
+    font-size: 32;
+}
+a:active{ color: yellow;}
