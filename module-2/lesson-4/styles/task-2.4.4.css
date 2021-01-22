@@ -1,0 +1,17 @@
+.container {
+    position: relative;
+    border: 1px solid green;
+}
+
+.container img {
+    height: 600px;
+    width: 600px;
+}
+
+.container span {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    background-color: white;
+    padding: 10px;
+}
