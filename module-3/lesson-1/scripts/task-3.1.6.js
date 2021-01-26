@@ -1,8 +1,11 @@
-var billPreTip = 35
-var tipTotal = billPreTip / 10
+var billPreTip = 35.45
 
-var totalBill = billPreTip + tipTotal
+var tipPercentage = 15;
 
-console.log("Your total bill, with tip is £" + totalBill + ". ");
-document.write("Your total bill, with tip is £" + totalBill + ". ");
-document.write("This includes a tip of " + tipTotal);
+var tipAmount = (billPreTip * tipPercentage) / 100;
+
+var totalBill = "Your total bill with tip is : " + "£" + (billPreTip + tipAmount) + '<br>'
+
+console.log(totalBill);
+document.write("Your total bill, with tip is £" + totalBill.toFixed(2) + ". ");
+document.write("This includes a tip of " + tipPercentage);
